@@ -10,9 +10,11 @@ Note that we did not include the Twitter corpus that we used due to the memory l
 
 **Notebook**: This folder contains analysis of the dataset we used for our project. There are three files, 
 
-tweet_analysis.ipynb :  It plots the number of tweets in each predefined time slice. 
-analyze_freq.ipynb: It plots the frequency of hate terms in each hate class. It also shows other detailed analysis. 
-final_analysis.ipynb: It contains final analysis that traces the semantic distance from the start time period. 
+[tweet_analysis.ipynb](https://github.com/yoona3877/hatespeech-semantic-shift/blob/main/notebook/tweet_analysis.ipynb) :  It plots the number of tweets in each predefined time slice. 
+
+[analyze_freq.ipynb](https://github.com/yoona3877/hatespeech-semantic-shift/blob/main/notebook/analyze_freq.ipynb): It plots the frequency of hate terms in each hate class. It also shows other detailed analysis. 
+
+[final_analysis.ipynb](https://github.com/yoona3877/hatespeech-semantic-shift/blob/main/notebook/final_analysis.ipynb): It contains final analysis that traces the semantic distance from the start time period. 
 
 **output**: It contains plots for cosine distance of each word used in our analysis, average cosine distance per group, frequency plots that are used for our analysis.
 
